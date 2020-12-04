@@ -1,5 +1,5 @@
-// kotlinc-jvm day4.kt -include-runtime -d day4.jar
-// cat input_day4 | java -jar day4.jar
+// kotlinc-jvm solution.kt -include-runtime -d solution.jar
+// cat input | java -jar solution.jar
 
 fun main() {
     val input = generateSequence(::readLine).toList()

@@ -1,5 +1,5 @@
-// kotlinc-jvm day2.kt -include-runtime -d day2.jar
-// cat input_day2 | java -jar day2.jar
+// kotlinc-jvm solution.kt -include-runtime -d solution.jar
+// cat input | java -jar solution.jar
 
 import kotlin.text.MatchResult.Destructured
 

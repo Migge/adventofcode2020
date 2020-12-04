@@ -1,5 +1,5 @@
-// kotlinc day1.kt -o day1
-// cat input_day1 | ./day1.kexe
+// kotlinc solution.kt -o solution
+// cat input | ./solution.kexe
 
 fun main() {
     val input = readLine()!!.split('\n').map(String::toInt)
